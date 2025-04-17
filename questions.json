@@ -1,0 +1,430 @@
+{
+  "heading": "Assessment-II",
+  "topics": [
+    {
+      "heading": "Assessment-II",
+      "questions": [
+        {
+          "questionNo": 1,
+          "question": "Which of these numbers is closest to 8/10?",
+          "options": [
+            { "text": "0.805" },
+            { "text": "0.085" },
+            { "text": "0.78" },
+            { "text": "0.079" },
+            { "text": "0.83" }
+          ],
+          "answer": 0
+        },
+        {
+          "questionNo": 2,
+          "question": "Five friends — Ava, Ben, Clara, Diego, Ella — live along a straight path in that order.<br> Ava lives 600 m from Clara and 900 m from Ella.<br> Ben is twice as far from Ava as she is from Clara.<br> Ben and Diego are the same distance from Clara.<br> How far does Diego live from Ella?",
+          "options": [
+            { "text": "100 m" },
+            { "text": "200 m" },
+            { "text": "300 m" },
+            { "text": "400 m" },
+            { "text": "500 m" }
+          ],
+          "answer": 0
+        },
+        {
+          "questionNo": 3,
+          "question": "A shape is made using identical grey rectangles and one white square in the middle.<br><img width='40%' src='./assests/images/1.png'><br> Each rectangle has an area of 48 cm² and is 4 cm wide.<br> What is the area of the white square?",
+          "options": [
+            { "text": "16 cm²" },
+            { "text": "25 cm²" },
+            { "text": "36 cm²" },
+            { "text": "49 cm²" },
+            { "text": "64 cm²" }
+          ],
+          "answer": 4
+        },
+        {
+          "questionNo": 4,
+          "question": "The numbers 5 and 30 have a highest common factor of 5 and lowest common multiple of 30. Another pair of numbers also share HCF 5 and LCM 30.<br> What is the sum of this second pair?",
+          "options": [
+            { "text": "17" },
+            { "text": "18" },
+            { "text": "20" },
+            { "text": "25" },
+            { "text": "35" }
+          ],
+          "answer": 3
+        },
+        {
+          "questionNo": 5,
+          "question": "Buses travel between Valeville and Hilltown:<br><img width='60%' src='./assests/images/2.png'><br>Jamie takes the second bus from Hilltown to Valeville, and returns on the very next bus to Hilltown. How long was Jamie away from Hilltown?",
+          "options": [
+            { "text": "1 hr 30 min" },
+            { "text": "2 hr 45 min" },
+            { "text": "4 hr 15 min" },
+            { "text": "5 hr 30 min" },
+            { "text": "6 hr 50 min" }
+          ],
+          "answer": 4
+        },
+        {
+          "questionNo": 6,
+          "question": "A piece of paper is folded twice in the following manner:<br><img width='50%' src='./assests/images/3.png'><br>A small triangle is cut out at the centre of the folded paper.<br> What shape will appear when the paper is completely unfolded?",
+          "options": [
+            { "image": "./assests/option/1.png" },
+            { "image": "./assests/option/2.png" },
+            { "image": "./assests/option/3.png" },
+            { "image": "./assests/option/4.png" }
+          ],
+          "answer": 0
+        },
+        {
+          "questionNo": 7,
+          "question": "Mia is placing chairs in rows. Each row must have the same number of chairs. She has 99 chairs but wants to arrange them into exactly 7 full rows.<br> How many more chairs does she need?",
+          "options": [
+            { "text": "2" },
+            { "text": "6" },
+            { "text": "7" },
+            { "text": "8" },
+            { "text": "10" }
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 8,
+          "question": "Zara creates a number sequence by following these steps:<ul><li> Multiply by 3 to get the next number.</li><li> Subtract 5 from the previous number to get the next number.</li><li> Repeat the steps.</li></ul> If she starts with the number 3, what is the 5th number in the sequence?",
+          "options": [
+            { "text": "10" },
+            { "text": "9" },
+            { "text": "8" },
+            { "text": "7" },
+            { "text": "6" }
+          ],
+          "answer": 3
+        },
+        {
+          "questionNo": 9,
+          "question": "A tin of juice is weighed as shown below:<br><img width='40%' src='./assests/images/4.png'><br> After pouring out some juice, it is weighed again.<br><img width='40%' src='./assests/images/5.png'><br> What is the weight of the tin when all the juice is poured out?",
+          "options": [
+            { "text": "60 g" },
+            { "text": "70 g" },
+            { "text": "80 g" },
+            { "text": "90 g" },
+            { "text": "100 g" }
+          ],
+          "answer": 3
+        },
+        {
+          "questionNo": 10,
+          "question": "A bag contains red and blue marbles in a ratio of 2:5. There are 18 more blue marbles than red ones. How many marbles are there in total?",
+          "options": [
+            { "text": "42" },
+            { "text": "63" },
+            { "text": "70" },
+            { "text": "77" },
+            { "text": "84" }
+          ],
+          "answer": 0
+        },
+        {
+          "questionNo": 11,
+          "question": "Sonia says a number is \"bouncy\" if it leaves the same remainder when divided by 4 as when it is divided by 6.<br> Which of these numbers would Sonia call bouncy?<br> 9 13 21<br><br>",
+          "options": [
+            { "text": "none of them" },
+            { "text": "9 only" },
+            { "text": "13 only" },
+            { "text": "21 only" },
+            { "text": "9, 13 and 21" }
+          ],
+          "answer": 2
+        },
+        {
+          "questionNo": 12,
+          "question": "Ethan, Bella, and Chloe share a pie. Ethan eats ¼, Bella eats ½, and Chloe eats the rest. <br>Which statements are true?<br>1. Ethan eats less than Bella.<br>2. The entire pie is eaten.<br>3. Chloe eats ¼ of the pie.",
+          "options": [
+            { "text": "Statement 1 only" },
+            { "text": "Statement 2 only" },
+            { "text": "Statement 1 and 2 only" },
+            { "text": "Statement 1 and 3 only" },
+            { "text": "Statement 1, 2, and 3" }
+          ],
+          "answer": 4
+        },
+        {
+          "questionNo": 13,
+          "question": "Two boxes are placed on different weighing machines.<br><img width='45%' src='./assests/images/6.png'><br> What is the difference in weight between the two boxes?",
+          "options": [
+            { "text": "150 g" },
+            { "text": "250 g" },
+            { "text": "350 g" },
+            { "text": "400 g" },
+            { "text": "430 g" }
+          ],
+          "answer": 0
+        },
+        {
+          "questionNo": 14,
+          "question": "A toy workshop makes 4 teddy bears every 6 hours. If it runs non-stop from Monday to Sunday, how many teddy bears will it produce in a week?",
+          "options": [
+            { "text": "84" },
+            { "text": "96" },
+            { "text": "112" },
+            { "text": "224" },
+            { "text": "448" }
+          ],
+          "answer": 2
+        },
+        {
+          "questionNo": 15,
+          "question": "Two friends, Asha and Niko, had a combined age of 30 years four years ago.<br> What will their total age be in six years from now?",
+          "options": [
+            { "text": "38" },
+            { "text": "42" },
+            { "text": "46" },
+            { "text": "50" },
+            { "text": "54" }
+          ],
+          "answer": 3
+        },
+        {
+          "questionNo": 16,
+          "question": "A large triangle-shaped figure is made from 16 equilateral small triangles, some of which are shaded.<br><img width='40%' src='./assests/images/7.png'><br> Liam wants to shade one more triangle so that the given dotted line through the center becomes a line of symmetry.<br> Which triangle should he shade?",
+          "options": [
+            { "text": "E" },
+            { "text": "D" },
+            { "text": "C" },
+            { "text": "B" },
+            { "text": "A" }
+          ],
+          "answer": 4
+        },
+        {
+          "questionNo": 17,
+          "question": "Here is a number pattern: <br><img width='50%' src='./assests/images/20.png'><br> The first number is 2. After that, add ⅓ to get the next number.<br> What is the 25th number in the pattern?",
+          "options": [
+            { "text": "10" },
+            { "text": "11" },
+            { "text": "10 ½" },
+            { "text": "11 ½" },
+            { "text": "12" }
+          ],
+          "answer": 0
+        },
+        {
+          "questionNo": 18,
+          "question": "A drawer contains 3 same pairs of blue mittens and 2 same pairs of green mittens.<br> Each pair has a left and a right mitten.<br> They’re all mixed in the drawer.<br> What is the minimum number of mittens Anna must pick blindly to guarantee she gets a matching left and right mitten of the same colour?",
+          "options": [
+            { "text": "3" },
+            { "text": "4" },
+            { "text": "5" },
+            { "text": "6" },
+            { "text": "7" }
+          ],
+          "answer": 3
+        },
+        {
+          "questionNo": 19,
+          "question": "Tina builds a prism using small cubes.<br><img width='40%' src='./assests/images/8.png'><br>Here are three other prisms built using same small cubes:<br><img width='40%' src='./assests/images/9.png'><br> Which prism has the same volume as Tina’s?",
+          "options": [
+            { "text": "A only" },
+            { "text": "B only" },
+            { "text": "A and B only" },
+            { "text": "A and C only" },
+            { "text": "B and C only" }
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 20,
+          "question": "How many numbers from 1 to 99 have exactly one digit that is a 3?",
+          "options": [
+            { "text": "9" },
+            { "text": "10" },
+            { "text": "18" },
+            { "text": "19" },
+            { "text": "20" }
+          ],
+          "answer": 2
+        },
+        {
+          "questionNo": 21,
+          "question": "A booklet is made from 6 large sheets folded together.<br> Pages are numbered from 1 to 24. Which pages are printed on the same sheet as page 4?",
+          "options": [
+            { "text": "3, 21, 22" },
+            { "text": "5, 19, 20" },
+            { "text": "5, 22, 23" },
+            { "text": "3, 19, 20" },
+            { "text": "6, 17, 18" }
+          ],
+          "answer": 0
+        },
+        {
+          "questionNo": 22,
+          "question": "The paper given below has been painted with some red and blue squares and then folded along the dotted line.<br><img width='30%' src='./assests/images/10.png'><br> When the paper is unfolded, any red square touching a blue square makes both turn purple.<br> After unfolding, how many purple squares will there be?",
+          "options": [
+            { "text": "2" },
+            { "text": "4" },
+            { "text": "6" },
+            { "text": "3" },
+            { "text": "1" }
+          ],
+          "answer": 2
+        },
+        {
+          "questionNo": 23,
+          "question": "A garden is paved using square bricks with side length 50 cm.<BR> The total area paved is <img width='5%' src='./assests/images/21.png'> square metres. How many bricks were used?<BR><BR>",
+          "options": [
+            { "text": "10" },
+            { "text": "12" },
+            { "text": "14" },
+            { "text": "16" },
+            { "text": "18" }
+          ],
+          "answer": 2
+        },
+        {
+          "questionNo": 24,
+          "question": "A workshop lasted 4 hours 40 minutes and ended at quarter to 5. What time did the workshop begin?",
+          "options": [
+            { "text": "five to twelve" },
+            { "text": "five past twelve" },
+            { "text": "five to eleven" },
+            { "text": "five past eleven" },
+            { "text": "five past one" }
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 25,
+          "question": "Sam has eight equilateral cardboard triangles.<br><img width='50%' src='./assests/images/11.png'><br> He wants to make new shapes using at least two triangles, joined by full sides, with no gaps or overlaps, like this:<br><img width='50%' src='./assests/images/12.png'><br> Which other shapes can Sam make?",
+          "options": [
+            { "text": "Only a rhombus" },
+            { "text": "Rhombus and rectangle" },
+            { "text": "Hexagon and rhombus" },
+            { "text": "Only hexagon" },
+            { "text": "Hexagon, rhombus, and parallelogram" }
+          ],
+          "answer": 4
+        },
+        {
+          "questionNo": 26,
+          "question": "Leo’s toy robot is 23 cm tall. His action figure is twice as tall as the robot.<br> His plush bear is 35 cm taller than the action figure.<br> His miniature car is 60 mm long. How much taller is the plush bear than the miniature car?",
+          "options": [
+            { "text": "18 cm" },
+            { "text": "52 cm" },
+            { "text": "64 cm" },
+            { "text": "75 cm" },
+            { "text": "79 cm" }
+          ],
+          "answer": 3
+        },
+        {
+          "questionNo": 27,
+          "question": "Julie practices jump rope daily for 6 days. The bar chart shows the time she took (in minutes) each day.<br><img width='40%' src='./assests/images/13.png'><br> Statements: <br>1. Julie improved her time every day.<br>2. The total time on Days 2 and 5 is the same as Days 3 and 4.<br>3. Her best time was on Day 6.<br>Which statement(s) is/are correct?",
+          "options": [
+            { "text": "Statement 1 only" },
+            { "text": "Statements 1 and 3 only" },
+            { "text": "Statement 3 only" },
+            { "text": "Statement 2 only" },
+            { "text": "None of them" }
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 28,
+          "question": "At a market, these are the prices:<ul><li>apples for 20c</li><li> bananas for 15c</li><li> oranges for 10c</li></ul>Jamie pays with a dollar and gets back three coins, all different. Which fruits could he have bought?",
+          "options": [
+            { "text": "Apple only" },
+            { "text": "Orange only" },
+            { "text": "Banana or orange only" },
+            { "text": "Apple or orange only" },
+            { "text": "Apple, banana or orange" }
+          ],
+          "answer": 0
+        },
+        {
+          "questionNo": 29,
+          "question": "It’s currently 4:15<br><img width='35%' src='./assests/images/14.png'><br> What angle will be formed clockwise from the minute hand to the hour hand after 5 minutes?",
+          "options": [
+            { "text": "0 degrees" },
+            { "text": "Right" },
+            { "text": "Obtuse" },
+            { "text": "Reflex" },
+            { "text": "Acute" }
+          ],
+          "answer": 4
+        },
+        {
+          "questionNo": 30,
+          "question": "What is the total length of all the lines in this square grid?<br><img width='35%' src='./assests/images/15.png'><br>",
+          "options": [
+            { "text": "0.4 m" },
+            { "text": "0.45 m" },
+            { "text": "0.5 m" },
+            { "text": "0.55 m" },
+            { "text": "0.6 m" }
+          ],
+          "answer": 4
+        },
+        {
+          "questionNo": 31,
+          "question": "In the first diagram, the values of the symbols are multiplied:<br><img width='40%' src='./assests/images/16.png'><br> In the second, the same rule is followed:<br><img width='40%' src='./assests/images/17.png'><br> What is the missing value in this diagram?",
+          "options": [
+            { "text": "48" },
+            { "text": "20" },
+            { "text": "18" },
+            { "text": "16" },
+            { "text": "24" }
+          ],
+          "answer": 0
+        },
+        {
+          "questionNo": 32,
+          "question": "Which of the following 3D shapes has at least 5 faces, 8 edges, and 5 vertices?<br><img width='50%' src='./assests/images/18.png'><br>",
+          "options": [
+            { "text": "1 only" },
+            { "text": "3 only" },
+            { "text": "1 and 2 only" },
+            { "text": "1 and 3 only" },
+            { "text": "1, 2 and 3" }
+          ],
+          "answer": 3
+        },
+        {
+          "questionNo": 33,
+          "question": "Anna looks at a hiking trail on her map.<br> She thinks the path goes north (N), then north-east (NE), then west (W).<br> She realizes that she has held the map upside-down.<br> What directions does the trail actually go?",
+          "options": [
+            { "text": "E, then SW, then S" },
+            { "text": "S, then SE, then E" },
+            { "text": "S, then SE, then W" },
+            { "text": "S, then SW, then E" },
+            { "text": "W, then NE, then N" }
+          ],
+          "answer": 3
+        },
+        {
+          "questionNo": 34,
+          "question": "Arun wrote the number 42 and reversed the digits to form 24, which is 18 less than the original. Now, Meera writes a number between 10 and 99, and finds that reversing the digits makes it 72 more than what she wrote.<BR>What was the first digit of Meera’s original number?",
+          "options": [
+            { "text": "9" },
+            { "text": "7" },
+            { "text": "5" },
+            { "text": "3" },
+            { "text": "1" }
+          ],
+          "answer": 4
+        },
+        {
+          "questionNo": 35,
+          "question": "This shape is made of five connected squares: A, B, C, D, E.<br><img width='40%' src='./assests/images/19.png'><br> Square A has side length of 5 cm and square D has side length of 3 cm.<br> What is the side length of square A?",
+          "options": [
+            { "text": "9 mm" },
+            { "text": "8 mm" },
+            { "text": "90 mm" },
+            { "text": "80 cm" },
+            { "text": "7 cm" }
+          ],
+          "answer": 2
+        }
+      ]
+      
+    }
+  ]
+}
