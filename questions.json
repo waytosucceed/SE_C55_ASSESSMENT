@@ -413,7 +413,7 @@
         },
         {
           "questionNo": 35,
-          "question": "This shape is made of five connected squares: A, B, C, D, E.<br><img width='40%' src='./assests/images/19.png'><br> Square A has side length of 5 cm and square D has side length of 3 cm.<br> What is the side length of square A?",
+          "question": "This shape is made of five connected squares: A, B, C, D, E.<br><img width='40%' src='./assests/images/19.png'><br> Square C has side length of 5 cm and square D has side length of 3 cm.<br> What is the side length of square A?",
           "options": [
             { "text": "9 mm" },
             { "text": "8 mm" },
